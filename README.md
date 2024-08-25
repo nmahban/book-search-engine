@@ -15,4 +15,4 @@ License:
 None
 
 Questions:
-Feel free to reach out on Github for further questions!: nmahban
+Feel free to reach out on Github for further questions: nmahban
